@@ -1,4 +1,4 @@
-# Udacity Data Streaming Nanodegree Project
+# Stream Processing Application
 
 ## Project Objective
 
